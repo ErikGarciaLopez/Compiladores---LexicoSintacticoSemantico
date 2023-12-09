@@ -1,0 +1,51 @@
+flutuador _fun1 (flutuador _string1 , flutuador _string2)
+{
+flutuador _ca1=5;
+_num1 = _val+15*(12-(+93));
+_num2 = (-285);
+_num3 = _num1 + _num2;
+
+retorno;
+retorno _num1;
+retorno 5;
+retorno 5 * 5;
+retorno 5 * 5 * 5;
+retorno 5 * (5);
+retorno 5 / 5;
+retorno 5 % 5;
+retorno 5 + 5;
+retorno 5 - 5;
+
+enquanto(!5)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(5 > 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(5 < 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(5 == 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(5 != 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(5 >= 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(5 <= 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+enquanto(_hola <= 4)#
+    _num1 = _val+15*(12-(+93));
+#
+
+}
